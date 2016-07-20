@@ -1,13 +1,14 @@
 # MyPortaweb
 
 ## Overview
-MyPortaweb is a portable web server including PHP 7 and MariaDB 10
+MyPortaweb is a simple and lightweight portable webserver containing PHP, MariaDB, and Adminer.<br />
+Run over PHP Built-in Webserver make it easy, lightweight, and fast for developing PHP website.
 
 ## How to Use
 - Copy MyPortaweb folder to USB Stick<br />
-- Then open php_start.bat & mariadb_start.bat to start server<br />
-- Open http://127.0.0.1:8181/ or http://localhost:8181/ on web browser to see website<br />
-- To close server, open php_stop.bat & mariadb_stop.bat
+- Then open <b>php_start.bat<b/> & <b>mariadb_start.bat</b> to start server<br />
+- Open <i>http://127.0.0.1:8181/</i> or <i>http://localhost:8181/</i> on web browser to see website<br />
+- To close server, open <b>php_stop.bat</b> & <b>mariadb_stop.bat</b>
 
 ## Notes
 php -S 127.0.0.1:8000  -t /bin/ -c php.ini router.php<br />
