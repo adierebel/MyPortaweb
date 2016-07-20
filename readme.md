@@ -16,4 +16,5 @@ mysqld
 ## License
 MyPortaweb - Under GPL License https://www.gnu.org/licenses/gpl-3.0.en.html<br />
 PHP - https://secure.php.net/license/<br />
-MariaDB - https://mariadb.com/kb/en/mariadb/mariadb-license/
+MariaDB - https://mariadb.com/kb/en/mariadb/mariadb-license/<br />
+Adminer - http://www.apache.org/licenses/LICENSE-2.0 and http://www.gnu.org/licenses/gpl-2.0.html 
