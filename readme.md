@@ -20,4 +20,4 @@ MariaDB - https://mariadb.com/kb/en/mariadb/mariadb-license/<br />
 Adminer - http://www.apache.org/licenses/LICENSE-2.0 and http://www.gnu.org/licenses/gpl-2.0.html 
 
 ### Powered by 
-<img style="width:200px;height:auto;" src="https://raw.githubusercontent.com/idayrus/Idayrus-Docs/master/Idayrus%20Logo%20Full%20Large.png"/>
+<img style="width:200px;height:auto;" src="https://raw.githubusercontent.com/idayrus/MyPortaweb/master/idayrus.png"/>
