@@ -6,7 +6,7 @@ Run over PHP Built-in Webserver make it easy, lightweight, and fast for developi
 
 ## How to Use
 - Copy MyPortaweb folder to USB Stick<br />
-- Then open <b>php_start.bat<b/> & <b>mariadb_start.bat</b> to start server<br />
+- Then open <b>php_start.bat</b> & <b>mariadb_start.bat</b> to start server<br />
 - Open <i>http://127.0.0.1:8181/</i> or <i>http://localhost:8181/</i> on web browser to see website<br />
 - To close server, open <b>php_stop.bat</b> & <b>mariadb_stop.bat</b>
 
