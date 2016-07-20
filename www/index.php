@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+	header("Location: http://".$_SERVER['HTTP_HOST']."/myportaweb");
 ?>
