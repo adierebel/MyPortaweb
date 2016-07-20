@@ -12,3 +12,8 @@ MyPortaweb is a portable web server including PHP 7 and MariaDB 10
 ## Notes
 php -S 127.0.0.1:8000  -t /bin/ -c php.ini router.php<br />
 mysqld 
+
+## License
+MyPortaweb - Under GPL License https://www.gnu.org/licenses/gpl-3.0.en.html<br />
+PHP - https://secure.php.net/license/<br />
+MariaDB - https://mariadb.com/kb/en/mariadb/mariadb-license/
